@@ -1,6 +1,6 @@
 # Waveslash
 
-Video game prottype with XNI framework.
+Video game prototype with XNI framework.
 
 ## How to run
 
